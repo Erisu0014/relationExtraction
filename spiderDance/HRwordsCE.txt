@@ -1,0 +1,1058 @@
+aaaa
+第一篇          导论：人力资源环境与策略
+
+    第一章       人力资源策略
+
+1. 人力资源政策与哲学
+
+。人力资源管理       (human resource management ,HRM)
+
+。人力资源管理目标          objectives of HRM
+
+。人力资源管理职责           duties of HRM
+
+。人力资源管理任务           tasks of HRM
+
+。战略性人力资源管理              strategic HRM
+
+。人力资源政策          human resource policy
+
+。人力资源哲学           human resource philosophy
+
+。精神契约        psychological contract
+
+。企业认同感        organization  commitment
+
+2. 组织：行为与文化
+
+。正式组织        formal organization
+
+。非正式组织             informal organization
+
+。组织文化          organization culture
+
+。亚文化      subculture
+
+。跨文化      cross-national culture
+
+。价值观      values
+
+。态度     attitudes
+
+。角色行为       role behavior
+。个人主义—集体主义          individualism-collectivism
+
+。不确定性规避         uncertainty avoidance
+
+。权力距离       power distance
+
+。直线和职能职权          line and staff authority
+
+3. 激励与组织绩效
+
+。激励     motivation
+
+。需要层次理论         hierarchy of needs theory
+
+。X理论与     Y理论    theory X & theory Y
+
+。组织体系Ⅰ与组织体系Ⅳ              system Ⅰ& system  Ⅳ
+
+。激励   - 保健理论     motivation-hygiene theory
+
+。ERG理论     ERG theory
+
+。麦克莱兰德需要理            mc-clelland ’s theory of needs
+
+。期望理论       expectency theory
+
+。公平理论       equity theory
+
+。强化理论       reinforcement theory
+
+。波特  - 劳勒期望机率理论         borter-lawler ’s theory of expectency
+
+第二章       人力资源环境
+
+1. 人力资源法律环境
+
+。公平就业机会        equal employment opportunity ，EEO
+
+。  公 平  就  业 机  会  委 员  会     equal employment  opportunity
+
+commission， EEOC
+
+。实际职业资格         bona fide occupational qualification ，BFOQ
+。经营必需       business necessity
+
+。反优先雇佣行动          affirmative action
+
+。善意势力战略         good faith effort strategy
+
+。定额战略       quota strategy
+
+。差别性对待       disparate treatment
+
+。差别性影响        disparate impact
+
+。性骚扰      sexual harassment
+
+2. 内部和外部环境
+
+。人力资源环境外部环境             external environment of HR
+
+。劳动力市场        labor force market
+
+。社会责任       social responsyibility
+
+。组织重组       organization reengineering
+
+。管理多样化        managing diversity
+
+。人力资源内部环境           internal environment
+
+。玻璃天花板        glass ceiling
+
+。工作与家庭        job and family
+
+   第三章    人力资源研究
+
+   1．   人力资源有效性的衡量
+
+   。人力资源管理功能           function  of  HRM
+
+   。人力资源管理角色           roles of HRM
+
+   。审计法      audit approach
+
+   。分析法     analysis  approach
+   。人力资源研究        human resource research ，HRR
+
+   。人力资源研究过程           HRR process
+
+   2. 人力资源研究方法
+
+   。案例研究       case study
+
+   。调查反馈法        survey feedback method
+
+   。相关分析       correlation analysis
+
+   。回归分析       regression  analysis
+
+   。判别分析      discriminant  analysis
+
+   。专家系统       expert system
+
+   。集成软件       groupware
+
+第二篇             设计：工作分析与人力规划
+   第四章       工作分析与工作设计
+
+   1.   工作分析基础概念
+
+   。职业、工作与职位            occupation 、job & position
+
+   。职责、任务与工作元素           duties 、task & job elements
+
+   。工作背景       job context
+
+   。工作分析       job  analysis
+
+   。工作分析流程         job analysis process
+
+   。工作说明       job  description
+
+   。工作识别       job identification
+
+   。工作规范       job specification
+
+   。工作分析信息        job analysis information
+2.   工作分析的方法与技术
+
+。问卷调查法       questionnaire method
+
+。访谈法      interview method
+
+。观察法      method
+
+。现场工作日记（日志法）              participant diary/logs method
+
+。工作分析程序法         job analysis program ，JAP
+
+。工作分析计划表        job analysis schedule,JAS
+
+。功能性工作分析法         functional job analysis ，FJA
+
+。职位分析问卷法          position analysis questionnaire ，PAQ
+
+。  管  理 职  位  描 述  问  卷  调 查  法     management  position
+
+   description questionnaire ，MPDQ
+
+。关键事变技术          critical incident  technique ，CIT
+
+。工作分析专业指南          guidelines oriented job analysis ，GOJA
+
+。职业测定系统         occupational measurement system ，OMS
+
+3.   工作设计与丰富化
+
+。工作设计       job design
+
+。工作丰富化        job  enrichment
+
+。工作扩大化        job  enlargement
+
+。以员工为中心的工作再设计                  employee – centered  job
+
+   redesign
+
+。激励型工作设计法          motivational approach
+
+。机械型工作设计法           mechanistic approach
+。生物型工作设计法           biological  approach
+
+。知觉运动型工作设计法             perceptual- motor approach
+
+第5章     人力资源规划
+
+1. 人力资源规划基础
+
+。人力资源规划         human resource planning ，HRP
+
+。人力资源规划流程           HRP process
+
+。人力资源调查         HR investigating
+
+。人力资源信息系统           human resource information system ，
+
+。员工过剩       employee surplus
+
+。裁减     downsizing
+
+2．   人力资源需求预测
+
+。人力资源需求预测           requirement forecast
+
+。长期趋势       long – term trend
+
+。循环变动       cyclical variations
+
+。季节变动       seasonal variations
+
+。趋势分析       trend analysis
+
+。比率分析       ratio analysis
+
+。零基预测       zero-base  forecasting
+
+。模拟方法       simulation
+
+。计算机预测系统          computerized forecast
+
+3. 人力资源供给预测
+
+。供给预测       availability forecast
+   。内部供给       internal source of supply
+
+   。资格数据库        qualifications inventory
+
+   。技能储备        skill  inventory
+
+   。继任计划       succession planning
+
+   。外部供给       external  sources  of supply
+
+第三篇             招聘：人力资源选拔与预测
+   第五章   人力资源招聘
+
+   1.   招聘环境与来源
+
+   。招聘     recruitment
+
+   。招聘来源       recruitment sources
+
+   。外部招聘环境         external recruiment environment
+
+   。内部招聘环境          internal  recruitment environment
+
+   。招聘方法       recruitment methods
+
+   。招聘备择方案         optional  program  of recruitment
+
+   。核心人员和应急人员           core personal & contingency personnel
+
+   2.   外部招聘的方法
+
+   。广告招聘       advertisement recruiting
+
+   。职业介绍所      employment agency
+
+   。校园招聘       campus recruiting
+
+   。特殊事件       special events
+
+   。实习招聘       internship
+
+   。主管人员代理招聘机构             executive recruiters
+。员工推荐       employee referrals
+
+。求职者自荐式招聘           applicant-initiated recruitment
+
+。简历数据库        resume inventory
+
+。自动求职跟踪系统           automated applicant tracking system
+
+3.   内部招聘的方法
+
+。电脑化职业生涯行进系统              computerized career progression
+
+systems
+
+。内部提升      promotion from within ，PFW
+
+。主管推荐       manager referrals
+
+。工作公告和工作投标            job posting & job bidding
+
+。职业生涯开发系统           career development  systems
+
+              第七章人力资源选拔
+1. 影响选拔的因素
+
+。员工选拔       personnel selection
+
+。决策速度       decisions  speed
+
+。选拔等级       selection grade
+
+。候选人数量        quantity of applicants
+
+。选拔率     selection ratio
+
+。试用期     probation
+
+。拒绝求职者        refusing applicants
+
+。选拔决策      selection decision
+
+。光环与触角效应          halo effect & horn effect
+。体检     physical ability inspirons
+
+。录用     enrollment
+
+2. 选拔中的面试方法
+
+。简历     resume
+
+。申请表      application blank
+
+。面试计划清单         interview planning list
+
+。初步面试       initial interview
+
+。求职面试       employment interview
+
+。面试目标       interview  objectives
+
+。面试内容       interview content
+
+。非结构化面试         unstructured interview
+
+。结构化面试        structured  interview
+
+。情景面试       situational interview
+
+。 模  式 化  行 为 描  述 面 试   patterned behavior  description
+
+  interview ，PBDI
+
+。基于能力的面试          competence –  based interview
+
+。系列式面试        serialized or sequential interview
+
+。小组面试        group interview
+
+。会议型面试        board interview
+
+。压力面试       stress interview
+
+。实际岗位演习         realistic  job preview ，RJP
+
+。个人证明材料检查           reference checks
+。背景调查       background investigation
+
+。证明人。      Witness
+
+3. 选拔中的测试方法。
+
+。标准化      standardization
+
+。客观性与规划         objectivity & norm
+
+。测试信度       tests reliability
+
+。测试效应       tests validity
+
+。标准关联有效性         criterion-related validity
+
+。内容有效性        content validity
+
+。结构有效性        construct validity
+
+。录用分数线        cutoff score
+
+。认知能力测试         cognitive  aptitude tests
+
+。运动神经能力测试           psychomotor abilities tests
+
+。人格投射测试         projective  personality tests
+
+。主题统觉测试        thematic apperception test
+
+。个性测试       personality tests
+
+。兴趣测试       interest tests
+
+。业务知识测试         job knowledge tests
+
+。工作样本测试         work – sample tests
+
+。管理评价中心         management assessment  center
+
+。测谎测试       polygraph test
+
+。笔迹分析法         handwriting analysis
+第四篇             开发：人力资源培训与评价
+第八章       人力资源培训与开发
+
+1.   组织变化与员工适应
+
+。组织变化       organization change
+
+。变化阻力       change obstruction
+
+。减少阻力       reducing obstruction
+
+。员工上岗引导         employee orientation
+
+。现实冲击       reality shock
+
+。上岗引导阶段        orientation period
+
+。重新导向       reorientation
+
+。适应组织       adapting organization
+
+。上岗引导目标         orientation objective
+
+  2. 人力资源开发实践
+
+。人力资源开发        human  resource development ，HRD
+
+。开发影响因素         effect  factors of development
+
+。人力资源开发目标          HRD  objectives
+
+。人力资源开发过程           HRD  process
+
+。人力资源开发需求           HRD  requirement
+
+。人力资源开发分析           HRD analysis
+
+。管理层开发        management development
+
+。外部与内部开发          external & internal development
+
+。人力资源开发媒介           HRD intermediary
+。人力资源开发评价          HRD appraisal
+
+。柯氏模式       kirkpartrick model
+
+。控制实验法       control experimenttation
+
+。《工作培训合作法》           job training partnership act ， JTPA
+
+。内部开发中心         in-house development centers
+
+2.   培训与开发方法
+
+。培训    training
+教练方法           coaching method
+
+辅导方法      mentor method
+
+行为建模      behavior  modeling
+
+角色扮演      role playing
+
+初级董事会      junior board
+
+行动学习      action learning
+
+工作轮换      job rotation
+
+文件筐训练       in-basket training
+
+管理游戏      management games
+
+领导者匹配培训         leader match training
+
+会议方法      conference method
+
+程序化教学       programmed instruction ，PI
+
+基于计算机的培训          computer –  based training
+
+远程教育     long-distance education
+
+IBM的管理层开发        management development of IBM
+课堂教学     classroom  education
+
+实习    practice
+
+在职培训      on- the-job training ，OJT
+
+学徒培训     apprenticeship training
+
+工作指导培训        job instruction
+
+模拟培训      simulator  training
+
+技工学校培训        vestibule training
+
+第九章       组织发展与职业规划
+
+1. 组织特征与管理风格
+
+组织气候      organization climate
+
+组织特征     organization character
+
+管理流程      management process
+
+管理风格      managerial style
+
+问题求解      problem solving
+
+文化类型     culture type
+
+参与文化      participation culture
+
+工作系统      work system
+
+2. 组织发展的方法
+
+组织发展      organization development ，OD
+
+组织发展的方法         organization development methods
+
+调查反馈     survey feedback
+
+质量图     quality circles
+充实工作内容        supplement job content
+
+交流分析      transactional analysis ，TA
+
+工作期质量       quality of work life ，QWL
+
+敏感性训练       sensitivity training
+
+全面质量管理        total quality management ，TQM
+
+团队建设     team  building
+
+组织发展评价        organization development appraisal
+
+3. 职业规划与发展
+
+职业规划      career planning
+
+职业规划影响因素          effect factor of career planning
+
+人生阶段      life stage
+
+职业动机      career anchors
+
+职业性向测试       vocational preference test ，VPT
+
+通用资质测验组系         the general aptitude test battery ，GATB
+
+自我评价      self –  assessment
+
+强（弱）平衡表         strength /weakness balance sheet
+
+好恶调查表       linkes and dislikes survey
+
+组织职业规划        organizational career planning
+
+职业途径      career path
+
+传统职业途径        traditional  career path
+
+网状职业途径信息          network career path
+
+横向职业途径        horizontal career path
+双重职业途径        dual  career path
+
+职业途径信息        career path information
+
+停滞    plateauing
+
+职业发展      career development
+
+职业发展方法        career  development method
+
+第十章       人力资源进行考评
+
+1. 绩效考评与改进
+
+绩效考评      performance appraisal ，PA
+
+绩效考评目的        performance appraisal objective
+
+绩效考评原则        performance appraisal principal
+
+绩效考评应用        performance appraisal utilization
+
+绩效考评流程        performance appraisal  process
+
+考评的限制因素         limitation factors of PA
+
+考评期     Performance appraisal period
+
+上级考评      superordinate  appraisal
+
+同事考评      colleague appraisal
+
+小组考评      team appraisal
+
+自我考评      self –  appraisal
+
+下级考评      subordinate appraisal
+
+360°反馈     360 –  degree feedback
+
+绩效考评标准不清          unclear PA standard
+
+晕轮效应      halo effect
+个人偏见      bias
+
+近因性错误       recency error
+
+居中趋势      central tendency
+
+偏松或偏紧倾向        strictness  / leniency tendency
+
+考评标准化       appraisal standardization
+
+考评反馈     appraisal feedback
+
+考评者培训       appraiser training
+
+考评面谈      interview  appraisal
+
+评价中心      assessment center
+
+2. 绩效考评的方法
+
+叙述法     essay method
+
+作业标准法       work standards method
+
+图解式考评       graphic rating scale method ，GRS
+
+强制分布法        Forced distribution method
+
+排序考评法       banking method
+
+交替排序法       alternative ranking method
+
+员工比较系统        employees comparison system
+
+配对比较法      paired comparison method
+
+目标管理法       management by  objective ，MBO
+
+关键事件法       critical incident method
+
+行为锚定等级法         behaviorally  anchored  rating scale
+
+                 Method ，BARS
+行为观察量表       Behavior observation scale ，BOS
+
+第五篇          报酬：薪资方案与福利计划
+第十一章       薪资结构与方案
+
+   1.   员工报酬与公平
+
+   员工报酬       employee compensation
+
+   直接和间接经济报酬           direct &  indirect financial
+
+   非经济报酬       nonfiction compensation
+
+   报酬公平      pay epuity
+
+   外部公平      external equity
+
+   内部公平      internal equity
+
+   员工公平      employee equity
+
+   团队公平      team equity
+
+   报酬政策      compensation  policy
+
+   2.   薪资调查与报酬因素
+
+   薪资调查     salary survey
+
+   基准工作     benchmark  job
+
+   生活费用      cost of living
+
+   豁免员工      exempt employees
+
+   工作评价      job  evaluation
+
+   报酬因素      compensable factors
+
+   排序法     ranking method
+
+   分类法     classification method
+计点法     point method
+
+因素比较法       factor comparison method
+
+3.   薪资结构与方法
+
+工作定价      job pricing
+
+工资等级       pay grade
+
+工资曲线      wage curve
+
+工资幅度      pay range
+
+工资率调整       pay rate adjustment
+
+计时工资制       hourwork  plan
+
+计件工资制       piecework  plan
+
+标准工时制       standard hour
+
+技能工资制        skill –  based pay
+
+市场定价工资制         market pricing plan
+
+管理层薪资水平         executive compensation
+
+专业人员报酬制度          professional pay  system
+
+可比价值      comparable worth
+
+工资保密      pay secrecy
+
+压缩工资      pay compression
+
+第十二章      激励性报酬与福利
+
+1. 激励性报酬方案
+
+团队或班组激励计划           team or group  incentive  plans
+
+年终分红      annual bonus
+分红制     profit sharing
+
+资本积累方案        capital  accumulation programs
+
+股票期权      stock option
+
+绩效工资      merit pay
+
+利润分享计划        profit –  sharing
+
+员工持股计划        employee  stock ownership plan ，ESOP
+
+斯坎伦计划         Scanlon plan
+
+ 收益分享计划         gain- sharing plan
+
+风险工资计划        risk pay planning
+
+奖金    incentive compensation
+
+佣金计划      commission plan
+
+2. 间接报酬与福利计划
+
+福利    benefits
+
+补充性工资福利         supplement pay benefits
+
+精神健康的福利         spiritual health benefits
+
+社会保障      social security
+
+失业保险      unemployment insurance
+
+病假    sick leave
+
+解雇补贴     severance pay
+
+补充失业福利        supplemental unemployment benefits
+
+工伤补偿     worker ’ s  compensation
+
+团体人寿保险        group  life  insurance
+   养老金计划       pension  plan
+
+   个人养老金账户         individual retirement account ，IRA
+
+   固定收益制       defined  benefit plan
+
+   固定缴款机       defined  contribution plan
+
+   401（k）计划      401 （k）plan
+
+   提前退休窗口        early retirement window
+
+   额外酬劳      premium pay
+
+   “金降落伞”合同          “golden patachute  ”contract
+
+   3. 服务福利与分经济报酬
+
+   员工服务      employee services
+
+   员工咨询服务        employee lonsultation services
+
+   儿童照顾      child care
+
+   老年照顾      elder care
+
+   教育津贴      education subsity
+
+   工作环境      job surrownding
+
+   弹性工作时间        flextime
+
+   压缩工作周       compressed workweek
+
+   工作分担      job sharing
+
+   弹性报酬计划        flexible compensation plan
+
+   在家工作      work at home
+
+   修订的退休制度         modified retirement
+
+第六篇             影响：员工健康与劳资关系
+斯十三章      员工安全与健康
+
+   1.   员工安全与事故处理
+
+   员工安全与健康         employee safety and health
+
+   职业安全与健康法案           occupational safety and health act ，
+
+                     OSHA
+
+   OSHA标准     OSHA standard
+
+   事故损失      accident loss
+
+   安全方案      satety program
+
+   安全诱因方案        safety incentive program
+
+   安全委员会       safety committee
+
+   安全负责人       safety director
+
+   事故调查      accident investigation
+
+   事故频率      accident frequency
+
+   事故严重率       accident severity rate
+
+   安全方案评价        safety program  appraisal
+
+   不安全条件       unsafe condition
+
+   不安全行为       unsafe acts
+
+   事故倾向      accident  proneness
+
+   事故预防      accident prevention
+
+   减少事故     reducing  accident
+
+   累计创伤失调        cumulative trauma disorders
+
+   工作场所暴力        violence in the workplace
+2.   工作压力与员工健康
+
+压力     stress
+
+工作（组织）压力          job /organizational stress
+
+精力衰弱      burnout
+
+减少衰弱      reducing burnout
+
+压力来源      stress source
+
+文化冲击      culture shock
+
+角色模糊（冲突）          role ambiguity/conflict
+
+克服压力      overcoming  stress
+
+催眠    hypnosis
+
+生物反馈      biofeedback
+
+超自然冥想       transcendental meditation ，TM
+
+人类工程学       ergo
+
+酗酒      alcoholism
+
+药物滥用      drug abuse
+
+工作场所的吸烟问题            environmental tobacco smoke ，ETS
+
+工作场所的艾滋病          environmental AIDS
+
+身体健康方案         health program
+
+员工援助方案        employee  assistance  program ，EAP
+
+施乐方案      xerox program
+
+第十四章      员工与劳动关系
+
+   1.   工会运动与法律
+劳工运动      labor  movement
+
+工会    union
+
+密谋原理      conspiracy
+
+禁止令（“黄狗合同”        ）  injunction/yellow – dog contract
+
+工会保障      union security
+
+地方工会      local  union
+
+全国工会      national union
+
+劳联  - 产联   american federation of labor and congress of
+
+industrial organization ， AFL-CIO
+
+《反禁令法》        norris – laguardia act
+
+《国家劳工关系法》           national labor relations act
+
+国家劳动关系委员会            natural labor relations board ，
+
+NLRB
+
+《劳资关系法》        labor management relations Act
+
+《劳资报告和揭发法案》             labor –  management reporting
+
+and disclosure act
+
+资方不正当劳动行为           employer unfair labor practices
+
+工会不正当劳动行为          union unfair labor practices
+
+劳工关系顾问        labor relation consultant
+
+授权卡     authorization cards
+
+选举申请      petition for election
+
+选举活动      election campaign
+2, 。劳资谈判与无工会组织
+
+劳资谈判       collective  bargaining
+
+谈判单位      bargaining  unit
+
+劳资关系      labor – managenent relations
+
+谈判建议      bargaining advice
+
+谈判问题      bargaining issues
+
+谈判准备      bargaining preparation
+
+谈判破裂      bargaining breakdown
+
+僵持      impasse
+
+第三方介入        third-party intervention
+
+罢工    strike
+
+抵制    boycott
+
+联合抵制（闭厂）          boycotts / lockout
+
+协议内容      contents of agreement
+
+协议批准      agreement ratification
+
+协议执行      agreement execution
+
+抱怨程序      grievance  procedure
+
+无工会政策       union – free policy
+
+开放政策      open – door policy
+
+有效的交流       effective  swap
+
+督查专员       ombudsperson
+
+解除认证       decertification
+3. 员工内部关系
+
+内部员工关系        internal employee relations
+
+纪律处分    disciplinary action
+
+热炉规则      hot stove rule
+
+渐进纪律处分        progressive disciplinary action
+
+无  惩 罚  的  纪  律 处  分     dsciplinary  action  without
+
+             punishment
+
+终止合同      dismissal
+
+解雇理由      reasons of dismissal
+
+自由就业      employment at will
+
+临时解雇      layoff
+
+工作替换（临时解雇）程序              bumping /layoff proceduces
+
+岗外安置      out placement
+
+调动    transfer
+
+降职（晋升）        demotion
+
+辞职   resignation
+
+退休   retirement
